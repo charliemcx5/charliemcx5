@@ -27,3 +27,4 @@ Feel free to reach out if you have any project ideas or any questions!
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=charliemcx5.charliemcx5)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charliemcx5)](https://github.com/anuraghazra/github-readme-stats)
