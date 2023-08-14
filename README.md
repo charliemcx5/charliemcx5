@@ -3,7 +3,7 @@
 🎓 Computer Science and Digital Media Student at Royal Holloway University of London  
 🌐 Founder of WebNow - Your Go-to Web Design and Development Agency  
 
-Welcome to my GitHub profile! I'm passionate about all things technology, design, and innovation. As a Computer Science and Digital Media student at Royal Holloway University of London, I'm constantly exploring the fascinating intersection of code and creativity. 
+Welcome to my GitHub profile! I'm passionate about all things technology, design, and innovation. 
 
 ## What I'm Up To
 
