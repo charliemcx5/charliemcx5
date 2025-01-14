@@ -1,7 +1,6 @@
 # Charles McGuire 👋
 
 🎓 Computer Science and Digital Media Student at Royal Holloway University of London  
-🌐 Founder of WebNow - Your Go-to Web Design and Development Agency  
 
 Welcome to my GitHub profile! I'm passionate about all things technology, design, and innovation. 
 
@@ -22,8 +21,8 @@ Welcome to my GitHub profile! I'm passionate about all things technology, design
 ## Connect with Me
 Feel free to reach out if you have any project ideas or any questions!
 
-🌐 [Portfolio Website](https://webnow.dev)  
-📧 [Email](mailto:charliemcguirex5@gmail.com)  
+🌐 [Portfolio Website](https://cmcguire.net)  
+📧 [Email](mailto:charlesmcguiremail@gmail.com)  
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=charliemcx5.charliemcx5)
