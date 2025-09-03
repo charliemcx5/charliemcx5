@@ -1,6 +1,6 @@
 # Charles McGuire 👋
 
-🎓 Computer Science and Digital Media Graduate, from Royal Holloway University of London  
+🎓 Computer Science and Digital Media Graduate, Royal Holloway University of London  
 
 Welcome to my GitHub profile! I'm passionate about all things technology, design, and innovation. 
 
