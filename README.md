@@ -4,19 +4,6 @@
 
 Welcome to my GitHub profile! I'm passionate about all things technology, design, and innovation. 
 
-## What I'm Up To
-
-📚 Currently studying and expanding my knowledge in algorithms, data structures, and web technologies.  
-🚀 Developing stunning and user-friendly websites through my agency, WebNow.  
-💡 Exploring new ways to merge design aesthetics with cutting-edge technology.
-
-
-## My Toolset
-
-🎨 Figma - Where I prototype intuitive user experiences and design custom UI.  
-🔧 React, Python, CSS - Combining data and beautiful designs  
-🚀 GitHub - Keeping track of my coding journey.  
-
 
 ## Connect with Me
 Feel free to reach out if you have any project ideas or any questions!
