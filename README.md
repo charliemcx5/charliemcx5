@@ -10,6 +10,7 @@ Feel free to reach out if you have any project ideas or any questions!
 
 🌐 [Portfolio Website](https://cmcguire.net)  
 📧 [Email](mailto:charlesmcguiremail@gmail.com)  
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=charliemcx5.charliemcx5)
 
 
